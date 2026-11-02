@@ -1,0 +1,12 @@
+# Unpinned; versions have not been verified. Install a PyTorch build suited to your platform.
+torch
+numpy
+pandas
+matplotlib
+ipython
+datasets
+tokenizers
+sacrebleu
+spacy
+notebook
+# The spaCy model en_core_web_md is downloaded by the notebook's first code cell.

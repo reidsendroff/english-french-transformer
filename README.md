@@ -130,4 +130,4 @@ Run the cells top to bottom: part 4 reloads the checkpoint and tokenizer that pa
 
 ## Context
 
-Built by **Reid Sendroff** for Harvard Extension School's graduate **CSCI E-89 Deep Learning** course (2026).
+Built by **Reid Sendroff** ([LinkedIn](https://www.linkedin.com/in/reidsendroff)) for Harvard Extension School's graduate **CSCI E-89 Deep Learning** course (2026).

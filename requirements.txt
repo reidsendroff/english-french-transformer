@@ -1,12 +1,12 @@
-# Unpinned; versions have not been verified. Install a PyTorch build suited to your platform.
-torch
-numpy
-pandas
-matplotlib
-ipython
-datasets
-tokenizers
-sacrebleu
-spacy
-notebook
-# The spaCy model en_core_web_md is downloaded by the notebook's first code cell.
+# Install the torch build for your platform first (CUDA recommended).
+torch>=2.0
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+ipython>=8.0
+datasets>=2.18
+tokenizers>=0.15
+sacrebleu>=2.4
+spacy>=3.7
+jupyterlab>=4.0
+# Word vectors: python -m spacy download en_core_web_md
